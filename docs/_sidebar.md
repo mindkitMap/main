@@ -1,8 +1,13 @@
 - [Home](/)
 - [MindKit 是什么？](/isOrNot.md)
-- 子项目
-  - [noteData - 核心数据结构](/noteData.md)
-  - [outlineEditor - 大纲编辑器](/outlineEditor.md)
-  - [model - 组合起来](/model.md)
-  - [todo - 应用示范项目](/todo.md)
+- [MindKit 如何工作？](/work.md)
 - [FAQ](faq.md)
+- 子项目
+  - [noteData - 核心概念和结构](/noteData.md)
+  - [outlineEditor - 大纲编辑器](/outlineEditor.md)
+  - [store - 默认存储机制](/store.md)
+  - [search - 查询引擎](/search.md)
+  - [model - 组合起来成界面](/model.md)
+  - [daily - 日记应用](/daily.md)
+  - [todo - 任务管理应用](/todo.md)
+

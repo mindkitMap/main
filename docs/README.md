@@ -1,2 +1,2 @@
-# MindKitDoc
+# MindKit :id=MindKitDoc
 
